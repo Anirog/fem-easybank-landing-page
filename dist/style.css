@@ -804,4 +804,14 @@ button:hover::before, .button:hover::before {
         justify-self: end;
   }
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 /*# sourceMappingURL=style.css.map */
